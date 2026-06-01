@@ -1,5 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
-
+Ryan David Prasad 
+212224040282
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 
